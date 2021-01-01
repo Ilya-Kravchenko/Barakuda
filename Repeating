@@ -1,0 +1,24 @@
+
+
+let usserName = prompt ('Сколько времени')
+ if (usserName == 'Главный') {
+     let pass = prompt ('Ведите пароль')
+     if (pass == 'Главный'){
+         let over = prompt ('Ведите второй пароль')
+         if (over == '123'){
+             alert ('Добро пожаловать')
+        }   else if ( over == '' || over == null){
+            alert ('Не верно')
+        } else {
+            alert ('Не правлиьный пароль')
+        }
+     } else if ( pass == '' || pass == null){
+         alert ('Не верно')
+     } else {
+         alert ('Я вас не знаю')
+     }
+ } else if (usserName == '' || usserName == null){
+    alert ('Не верно')
+ } else {
+     alert ('не правильно')
+ }
