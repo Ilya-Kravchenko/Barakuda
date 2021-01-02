@@ -22,3 +22,43 @@ let usserName = prompt ('Сколько времени')
  } else {
      alert ('не правильно')
  }
+
+// let usserName = prompt ('Ведите свое имя ')
+// if (usserName ==  'Главный'){
+// let pass = prompt ('Ведите пароль')
+// if ( pass == 'Админ'){
+// let two = prompt ('Двойная авторизацыя, ведите пароль')
+// if ( two == 'Админ2'){
+//     alert ('Добро пожаловать')
+// } else if  ( two == '' || two == null){
+//     alert ('Не верно')
+// } else {
+//     аlert ('Не верно')
+// }
+// } else if (pass == '' || pass == null ){
+//     alert ('Не верно')
+// } else {
+//     alert ('Не войдешь!')
+// }
+// } else if ( usserName == '' || usserName == null ){
+//  alert ('Не верно ')
+// } else {
+//     alert ('Не врено ')
+// }
+
+
+
+
+
+// let usserName = prompt ('Ведите Имя','Илья')
+// if (usserName == 'Илья'){
+//     alert ('Привет')
+// } else if ( usserName == '' || usserName == null){
+//     alert ('Нет входа')
+// } else {
+//     alert ('ТЫ кто?')
+// }
+
+
+
+
