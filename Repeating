@@ -62,3 +62,21 @@ let usserName = prompt ('Сколько времени')
 
 
 
+
+
+
+    // let value = prompt('Какое "Офицальное" название JavaScript');
+// 
+    // if (value == 'EcmaScript') {
+      // alert('Верно')
+    // } else {
+      // alert('Не знаете?')
+    // }
+
+    // let Ecma = prompt ('Какое "Офицальное" название JavaScript?');
+
+    // if (Ecma == 'EcmaScript') {
+    //   alert('Верно')
+    // } else {
+    //   alert('Не верно')
+    // }
